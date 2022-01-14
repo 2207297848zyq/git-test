@@ -9,5 +9,7 @@ public class Main {
         System.out.println("冲突测试");
         System.out.println("冲突测试hot-fix");
         System.out.println("pushTEST");
+        System.out.println("pullTEST");
+      
     }
 }

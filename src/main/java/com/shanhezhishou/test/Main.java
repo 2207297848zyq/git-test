@@ -10,6 +10,6 @@ public class Main {
         System.out.println("冲突测试hot-fix");
         System.out.println("pushTEST");
         System.out.println("pullTEST");
-      
+        System.out.println("项目迁移测试");
     }
 }
